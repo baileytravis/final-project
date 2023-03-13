@@ -4,3 +4,4 @@ done
 happy
 new word
 hello
+hi

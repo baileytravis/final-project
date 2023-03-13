@@ -5,10 +5,6 @@ done
 happy
 new word
 hello
-=======
-hello
-pass
-done
 happy
 new word
 hello
